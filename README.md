@@ -1,2 +1,2 @@
-# Car-mileage-analysis-in-R
+# Car-Mileage-Analysis-in-R
 Data Analysis for Stastical models &amp; methods 
